@@ -93,21 +93,21 @@ The database includes the following tables:
         <a href="https://github.com/Faqih001" style="text-decoration: none;">
           <img src="https://avatars.githubusercontent.com/u/79513690?v=4" width="300;" alt="Faqih001"/>
           <br />
-          <span style="font-size: 24px;"><b>Faqih001</b></span>
+          <span style="font-size: 20px; text-decoration: none;"><b>Faqih001</b></span>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Charmaine14-Bot" style="text-decoration: none;">
           <img src="https://avatars.githubusercontent.com/u/200607780?v=4" width="300;" alt="Charmaine14-Bot"/>
           <br />
-          <span style="font-size: 24px;"><b>Charmaine14-Bot</b></span>
+          <span style="font-size: 20px; text-decoration: none;"><b>Charmaine14-Bot</b></span>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/munaa33" style="text-decoration: none;">
           <img src="https://avatars.githubusercontent.com/u/102806925?v=4" width="300;" alt="munaa33"/>
           <br />
-          <span style="font-size: 24px;"><b>munaa33</b></span>
+          <span style="font-size: 20px; text-decoration: none;"><b>munaa33</b></span>
         </a>
       </td>
     </tr>
