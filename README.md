@@ -81,5 +81,5 @@ The database includes the following tables:
 
 ## BookStore Database Entity Relation Diagram
 
-![BookStore ERD](https://github.com/Faqih001/Database-Group-Work-Assignment/blob/main/BookStore%20Database.drawio.png))
+![BookStore ERD](https://github.com/Faqih001/Database-Group-Work-Assignment/blob/main/BookStore%20Database.drawio.png)
 
