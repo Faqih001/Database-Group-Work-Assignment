@@ -78,3 +78,6 @@ The database includes the following tables:
    - Run the script using one of these methods:
      ```bash
      mysql -u root -p < assignment.sql
+
+## BookStore Database Entity Relation Diagram
+https://github.com/Faqih001/Database-Group-Work-Assignment/blob/main/BookStore%20Database%20ERD.jpeg
