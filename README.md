@@ -85,9 +85,35 @@ The database includes the following tables:
 
 ## 👥 Contributors
 
-| [@Faqih001](https://github.com/Faqih001) | [@Charmaine14-Bot](https://github.com/Charmaine14-Bot) | [@munaa33](https://github.com/munaa33) |
-|:--:|:--:|:--:|
-| <img src="https://avatars.githubusercontent.com/u/100312448?v=4" width="100px" /> | <img src="https://avatars.githubusercontent.com/u/160481994?v=4" width="100px" /> | <img src="https://avatars.githubusercontent.com/u/157412625?v=4" width="100px" /> |
+<!-- readme: contributors -start -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Faqih001">
+          <img src="https://avatars.githubusercontent.com/u/100312448?v=4" width="100;" alt="Faqih001"/>
+          <br />
+          <sub><b>Faqih001</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Charmaine14-Bot">
+          <img src="https://avatars.githubusercontent.com/u/160481994?v=4" width="100;" alt="Charmaine14-Bot"/>
+          <br />
+          <sub><b>Charmaine14-Bot</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/munaa33">
+          <img src="https://avatars.githubusercontent.com/u/157412625?v=4" width="100;" alt="munaa33"/>
+          <br />
+          <sub><b>munaa33</b></sub>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- readme: contributors -end -->
 
 
 
