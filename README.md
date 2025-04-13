@@ -83,3 +83,10 @@ The database includes the following tables:
 
 ![BookStore ERD](https://github.com/Faqih001/Database-Group-Work-Assignment/blob/main/BookStore%20Database.drawio.png)
 
+## 👥 Contributors
+
+| [@Faqih001](https://github.com/Faqih001) | [@Charmaine14-Bot](https://github.com/Charmaine14-Bot) | [@munaa33](https://github.com/munaa33) |
+|:--:|:--:|:--:|
+| <img src="https://avatars.githubusercontent.com/u/100312448?v=4" width="100px" /> | <img src="https://avatars.githubusercontent.com/u/160481994?v=4" width="100px" /> | <img src="https://avatars.githubusercontent.com/u/157412625?v=4" width="100px" /> |
+
+
