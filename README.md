@@ -80,4 +80,6 @@ The database includes the following tables:
      mysql -u root -p < assignment.sql
 
 ## BookStore Database Entity Relation Diagram
-https://github.com/Faqih001/Database-Group-Work-Assignment/blob/main/BookStore%20Database%20ERD.jpeg
+
+![BookStore ERD](https://raw.githubusercontent.com/Faqih001/Database-Group-Work-Assignment/main/BookStore%20Database%20ERD.jpeg)
+
